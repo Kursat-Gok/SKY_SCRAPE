@@ -1,0 +1,6 @@
+1.2 Changes
+- fixed display issue with legend labels in weekly twitter activity graph for option 2
+- added cursor hover functionality to weekly twitter activity graph for option 2
+- added "go_deeper" option to option 4, providing the user with rich analysis of observed accounts using Katz centrality
+- simplified welcome screen UI
+- added a 'help' menu option and interface
